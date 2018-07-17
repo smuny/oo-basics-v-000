@@ -30,3 +30,6 @@ class Shoe
     @condition
   end
 end
+
+cobble = Shoe.new(cobble)
+cobble.condition = "new"
