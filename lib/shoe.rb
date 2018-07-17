@@ -37,5 +37,3 @@ class Shoe
   end
 end
 
-shoe1 = Shoe.new("status")
-shoe.condition = "new"
