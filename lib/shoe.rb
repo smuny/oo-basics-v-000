@@ -38,4 +38,3 @@ class Shoe
 end
 
 shoe1 = Shoe.new("status")
-shoe.cobble
