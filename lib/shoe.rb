@@ -34,3 +34,5 @@ class Shoe
   end
 end
 
+shoe.Shoe.new("blank")
+shoe.condition = "new"
