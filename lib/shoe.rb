@@ -37,4 +37,5 @@ class Shoe
   end
 end
 
+new_shoes = Shoe.new
 cobble.condition = "new"
