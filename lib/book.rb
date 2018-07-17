@@ -23,5 +23,7 @@ class Book
   def genre
     @genre
   end
+  def turn_page #behavor method
+  end
 end
 
