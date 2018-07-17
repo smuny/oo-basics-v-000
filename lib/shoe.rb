@@ -32,4 +32,4 @@ class Shoe
 end
 
 cobble = Shoe.new
-shoe.condition = "new"
+cobble.condition = "new"
