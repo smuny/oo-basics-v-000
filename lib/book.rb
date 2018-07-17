@@ -28,3 +28,4 @@ class Book
   end
 end
 
+book=Book.new
