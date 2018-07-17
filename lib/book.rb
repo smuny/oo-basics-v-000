@@ -28,5 +28,5 @@ class Book
   end
 end
 
-book=Book.new
+book=Book.new("blank")
 book.turn_page
